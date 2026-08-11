@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Bem vindo!!
 
 ### 🚀 Desenvolvedor de Software Backend | Java & Spring Ecosystem
 
@@ -30,8 +30,7 @@ Gosto de transformar requisitos complexos em código limpo, aplicando boas prát
 
 ### 📬 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vasques-022447277/)
 
 ---
 
